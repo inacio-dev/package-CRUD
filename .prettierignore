@@ -1,0 +1,7 @@
+# Ignore artifacts:
+build
+node_modules
+logs
+package-lock.json
+temp
+migrations
