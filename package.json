@@ -1,5 +1,5 @@
 {
-  "name": "@beq-energia/protheus-api-types",
+  "name": "@inacio-dev/package-crud",
   "version": "0.0.10",
   "description": "Tipagens para a API do Protheus",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beq-energia/protheus-api-types.git"
+    "url": "git+https://github.com/inacio-dev/package-CRUD.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/",
