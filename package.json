@@ -1,7 +1,7 @@
 {
   "name": "@inacio-dev/package-crud",
   "version": "0.0.10",
-  "description": "Tipagens para a API do Protheus",
+  "description": "Tipagens em formato CRUD",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
