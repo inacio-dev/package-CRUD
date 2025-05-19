@@ -1,6 +1,6 @@
 {
   "name": "@inacio-dev/package-crud",
-  "version": "0.0.10",
+  "version": "1.0.0",
   "description": "Tipagens em formato CRUD",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
